@@ -1,0 +1,8 @@
+.productlist-container{
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    justify-content: center;
+}

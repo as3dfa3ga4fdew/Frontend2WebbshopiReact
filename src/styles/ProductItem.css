@@ -1,0 +1,15 @@
+.product-item-container{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    padding: 10px;
+}
+
+.product-item-container:hover{
+    margin: 10px;
+    background-color: rgb(230, 226, 226);
+}
+
+.product-item-container h3{
+    height: 60px;
+}

@@ -1,0 +1,58 @@
+.profile-display-container{
+    margin-top: 20px;
+    
+    display: flex;
+    flex-direction: column;
+    
+
+    width: 50%;
+    background-color: rgb(230, 226, 226);
+
+    padding: 10px;
+
+
+
+}
+
+.customer-info-container{
+    margin-top: 20px;
+
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.customer-info-container div{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    width: 300px;
+    padding: 10px;
+    background-color: rgb(206, 193, 193);
+}
+
+.profile-display-item{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}
+
+
+.profile-display-container button{
+    color: black;
+    border: none;
+
+    padding: 20px;
+    width: 200px;
+
+    background-color: rgb(230, 226, 226);
+}
+
+.profile-display-container button:hover{
+    background-color: rgb(196, 166, 166);
+}

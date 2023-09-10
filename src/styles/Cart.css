@@ -1,0 +1,18 @@
+.cart-container{
+    
+    
+}
+
+.cart-container button{
+    color: black;
+    border: none;
+
+    width: 100px;
+    padding: 10px;
+
+    background-color: rgb(230, 226, 226);
+}
+
+.cart-container button:hover{
+    background-color: rgb(206, 193, 193);
+}

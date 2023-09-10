@@ -1,0 +1,10 @@
+.cart-product-list-container{
+    display: flex;
+    flex-direction: column;
+
+    padding: 10px;
+
+    overflow-y: auto;
+
+    max-height: 400px;
+}
